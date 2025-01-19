@@ -10,7 +10,6 @@ Selamat datang di repository **Data Analyst**! Repository ini berisi berbagai su
 - [Prasyarat](#prasyarat)
 - [Cara Menggunakan](#cara-menggunakan)
 - [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Pengantar
 
@@ -20,7 +19,6 @@ Repository ini ditujukan untuk pemula maupun profesional di bidang analisis data
 - Analisis data eksploratif (EDA)
 - Visualisasi data
 - Analisis statistik
-- Teknik dasar machine learning
 
 ## Struktur Folder
 
@@ -86,6 +84,4 @@ Kami terbuka untuk kontribusi! Untuk berkontribusi:
    ```
 5. Buat pull request.
 
-## Lisensi
 
-Repository ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
